@@ -38,9 +38,9 @@
 ## Portofolio
 
 Cek project dan karya saya di sini:  
-[**Kurniawan Hafiz - Personal Portofolio**](https://kurniawanhafiz.github.io)
+[**Kurniawan Hafiz - Personal Portofolio**](https://kurniawanhafiz.my.id)
 
-[**Kurniawan Hafiz - Web SMK Negeri 1 Sijunjung**](https://kurniawanhafiz.github.io/skansasi)
+[**Kurniawan Hafiz - Web SMK Negeri 1 Sijunjung**](https://skansasi.netlify.app)
 
 [**Kurniawan Hafiz - Project PPID SMK Negeri 1 Sijunjung**](https://ppidskansasi.infinityfree.me)
 
