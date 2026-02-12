@@ -10,7 +10,7 @@
 - ⚙️ Sedang eksplor juga dunia **IoT** dengan **NodeMCU ESP8266**
 - 🎯 Cita-cita jadi **Web3 Programmer** & **Data Engineer**
 - 💬 Sering ngoding langsung di HP pakai **Acode**
-- 📫 Kontak: [kurniawanhafizzz@gmail.com](mailto:kurniawanhafizzz@gmail.com) | IG: [@kurniawanhafizzz](https://instagram.com/kurniawanhafizzz)
+- 📫 Kontak: [fizallinone@gmail.com](mailto:fizallinone@gmail.com) | IG: [@kurniawanhafizzz](https://instagram.com/kurniawanhafizzz)
 
 ---
 
