@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats
 
-![Hafiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurniawanhafiz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniawanhafiz&layout=compact&theme=tokyonight)
+![Hafiz's GitHub stats](https://github-stats-extended.vercel.app/api?username=kurniawanhafiz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kurniawanhafiz&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurniawanhafiz&theme=tokyonight)
 
 ---
